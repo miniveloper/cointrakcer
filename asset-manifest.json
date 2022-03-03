@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/cointraker/static/js/main.69b16dcb.js",
+    "index.html": "/cointraker/index.html",
+    "main.69b16dcb.js.map": "/cointraker/static/js/main.69b16dcb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.69b16dcb.js"
+  ]
+}
